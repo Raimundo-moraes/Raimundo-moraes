@@ -10,7 +10,8 @@ From front-end development like <strong>JavaScript, React, and TypeScript,</stro
 ##
 
 <div  align="center" style="margin-bottom:100px">
- <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=raimundo-moraes&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
+ <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=raimundo-moraes&theme=radical&mode=weekly" />
+
  <img width=45% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raimundo-moraes&theme=radical"/>
 </div>
  
