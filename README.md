@@ -22,7 +22,7 @@ From front-end development like <strong>JavaScript, React, and TypeScript,</stro
  <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <div >
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,git,figma,nextjs,vscode" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,bootstrap,git,figma,vscode" />
     
 </div>
 
